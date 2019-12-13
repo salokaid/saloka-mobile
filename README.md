@@ -1,9 +1,3 @@
-# flutter_splash_screen
-
-A new Flutter application for splash screen.
-https://medium.com/me/stories/public
-https://fluttercentral.com/Articles
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
