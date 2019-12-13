@@ -1,6 +1,8 @@
-# saloka
+# flutter_splash_screen
 
-A new Flutter project.
+A new Flutter application for splash screen.
+https://medium.com/me/stories/public
+https://fluttercentral.com/Articles
 
 ## Getting Started
 
