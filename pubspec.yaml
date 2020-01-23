@@ -45,9 +45,9 @@ flutter:
   assets:
   - images/flutterwithlogo.png
   - images/splash.png
-  - images/icon_search.png
-  - images/icon_hamburger.png
-  - images/icon_otw.png
+  - images/Slider-1.png
+  - images/Slider-2.png
+  - images/Slider-3.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
